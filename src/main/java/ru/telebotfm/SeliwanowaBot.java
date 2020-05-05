@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class SeliwanowaBot extends TelegramLongPollingBot {
-    private static final String BOT_TOKEN = "1021892547:AAGfcAZqDvoNDl2ML3pI02XPdlOJTkYT4Dw";
+    private static final String BOT_TOKEN = "";
     private static final String BOT_USERNAME = "SeliwanovaAnnaBot";
     private DataBase dataBase;
 
